@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Yadav</h1>
-<h3 align="center">Hi there, Thanks for dropping by! I'm a final year student at Babu Banarasi Das Engineering College, Lucknow. I'm passionate about Problem Solving and web development. I'm always on the lookout for the latest technologies and techniques to help me build better, faster, and more efficient solutions. I'm excited to see where my journey in web development and problem solving will take me next.</h3>
+<h3 align="center">Aspiring Software Developer with an intermediate foundation in programming and software development principles. Pro-
+ficient in collaborating on projects and utilizing version control systems for effective teamwork. Eager to apply problem-
+solving skills and coding expertise to contribute to innovative solutions in a dynamic development environment. I'm excited to see where my journey in web development and problem solving will take me next.</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
